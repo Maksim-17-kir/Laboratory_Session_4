@@ -31,7 +31,7 @@
 7. **Конец**
 
 ### Блок-схема
-<img src="https://github.com/user-attachments/assets/28be038d-3be8-445a-a083-ee84506f9fff" alt="Screenshot" width="500">
+<img src="https://github.com/user-attachments/assets/2460e7d4-63eb-47c6-a140-fbdddebb1e31" alt="Screenshot" width="500">
 
 ## 2. Реализация программы
 _см. task_1 > Code_
